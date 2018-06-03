@@ -1,0 +1,21 @@
+{
+  "keywords": {
+    "Angry": ["angry", "upset", "pissed off", "grumpy", "annoyed"],
+    "Happy": ["happy", "pleased", "upbeat", "enthusiastic", "joyful", "smiling"],
+    "Neutral": ["bored", "sleepy", "complacent", "neutral", "mugshot"],
+    "Sad": ["sad", "crying", "heartbroken", "frown", "depressed", "forlorn"],
+    "Surprised": ["suprised", "startled", "shocked", "astonished"]
+  },
+  "addendums": [
+    "man", "men",
+    "woman", "women",
+    "child", "children",
+    "kid", "kids",
+    "old man", "old men",
+    "old woman", "old women",
+    "elderly", "sinior",
+    "black man", "black woman",
+    "hispanic man", "hispanic woman",
+    "indian man", "indian woman"
+  ]
+}
